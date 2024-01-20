@@ -24,10 +24,17 @@ body {
     color: #e5e7eb;
 }
 
-.info-text {
+.info-text, .quote-text {
     font-size: 36px;
-    font-weight: 800;
     color: #1f2937;
+}
+
+.info-text {
+    font-weight: 800;
+}
+
+.quote-text {
+    font-style: italic;
 }
 
 .testimonial {
