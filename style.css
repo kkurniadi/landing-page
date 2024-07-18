@@ -19,11 +19,15 @@ body {
     list-style: none;
 }
 
+.header-links a {
+    text-decoration: none;
+}
+
 .hero-text {
     font-size: 48px;
 }
 
-.secondary-text {
+.secondary-text, .header-links a {
     font-size: 18px;
     color: #e5e7eb;
 }
