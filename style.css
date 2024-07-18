@@ -6,12 +6,12 @@ body {
     background-color: #1f2937;
 }
 
-.logo, .hero-text {
+.logo, .hero-text, .action-text {
     font-weight: 800;
     color: #f9faf8;
 }
 
-.logo {
+.logo, .action-text {
     font-size: 24px;
 }
 
