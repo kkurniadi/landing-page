@@ -27,7 +27,7 @@ body {
     font-size: 48px;
 }
 
-.secondary-text, .header-links a {
+.secondary-text, .header-links a, .action-message {
     font-size: 18px;
     color: #e5e7eb;
 }
