@@ -15,6 +15,10 @@ body {
     font-size: 24px;
 }
 
+.header-links {
+    list-style: none;
+}
+
 .hero-text {
     font-size: 48px;
 }
