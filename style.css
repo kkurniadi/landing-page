@@ -43,6 +43,11 @@ body {
 
 .card-container {
     display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 200px;
 }
 
 .quote-text {
