@@ -39,6 +39,7 @@ body {
 
 .info-text {
     font-weight: 800;
+    text-align: center;
 }
 
 .card-container {
@@ -48,6 +49,10 @@ body {
 
 .card {
     width: 200px;
+}
+
+.card p {
+    text-align: center;
 }
 
 .quote-text {
