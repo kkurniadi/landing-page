@@ -34,6 +34,7 @@ body {
 
 .content {
     display: flex;
+    justify-content: center;
 }
 
 .hero-text {
