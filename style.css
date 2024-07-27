@@ -41,6 +41,10 @@ body {
     font-weight: 800;
 }
 
+.card-container {
+    display: flex;
+}
+
 .quote-text {
     font-style: italic;
 }
