@@ -23,6 +23,10 @@ body {
     text-decoration: none;
 }
 
+.content {
+    display: flex;
+}
+
 .hero-text {
     font-size: 48px;
 }
