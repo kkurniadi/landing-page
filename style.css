@@ -34,7 +34,8 @@ body {
 }
 
 .content {
-    padding: 100px 230px;
+    max-width: 1050px;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
     gap: 50px;
