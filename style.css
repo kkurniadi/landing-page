@@ -130,6 +130,7 @@ button {
     color: #f9faf8;
     font-size: 18px;
     font-weight: 700;
+    height: 40px;
 }
 
 .hero-button {
@@ -143,11 +144,13 @@ button {
     border-radius: 8px;
     padding: 50px 0;
     display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
 }
 
 .action-button {
     border: 3px solid #f9faf8;
-    align-self: flex-end;
 }
 
 .footer {
