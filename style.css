@@ -34,7 +34,7 @@ body {
 }
 
 .content {
-    padding: 100px 240px;
+    padding: 100px 230px;
     display: flex;
     justify-content: center;
     gap: 50px;
@@ -50,7 +50,7 @@ body {
 }
 
 .hero-image {
-    width: 600px;
+    width: 550px;
 }
 
 .info-text, .quote-text {
