@@ -19,12 +19,12 @@ body {
     padding-bottom: 100px;
 }
 
-.logo, .hero-text, .action-text {
+.logo, .hero-text, .action-heading {
     font-weight: 800;
     color: #f9faf8;
 }
 
-.logo, .action-text {
+.logo, .action-heading {
     font-size: 24px;
 }
 
@@ -142,10 +142,12 @@ button {
     background-color: #3882f6;
     border-radius: 8px;
     padding: 25px 75px;
+    display: flex;
 }
 
 .action-button {
     border: 3px solid #f9faf8;
+    align-self: flex-end;
 }
 
 .footer {
