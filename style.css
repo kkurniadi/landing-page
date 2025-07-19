@@ -137,6 +137,8 @@ button {
 }
 
 .message-box {
+    width: 1000px;
+    margin: 0 auto;
     background-color: #3882f6;
     border-radius: 8px;
     padding: 25px 75px;
