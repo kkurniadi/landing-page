@@ -98,17 +98,19 @@ body {
     margin: 0 auto;
 }
 
+.testimonial {
+    background-color: #e5e7eb;
+    padding: 100px 0;
+}
+
 .quote-text {
+    width: 800px;
     font-style: italic;
 }
 
 .quote-source {
     font-weight: 700;
     font-size: 24px;
-}
-
-.testimonial {
-    background-color: #e5e7eb;
 }
 
 button {
