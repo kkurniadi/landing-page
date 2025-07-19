@@ -105,6 +105,10 @@ button {
     font-size: 18px;
 }
 
+.hero-button {
+    margin-top: 10px;
+}
+
 .call-to-action {
     padding: 25px;
 }
