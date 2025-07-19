@@ -109,6 +109,7 @@ body {
 .quote-text {
     width: 800px;
     font-style: italic;
+    font-weight: 300;
 }
 
 .quote-source {
